@@ -28,5 +28,4 @@ properties:
     REDIS_USER_NAME: APPZ
     REDIS_USER_PASSWD: 
        vault: REDISPASSWD
-    REDIS_MAXMEMORY: 2gb
     revision : 18
