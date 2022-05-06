@@ -29,6 +29,6 @@ properties:
     REDIS_USER_NAME: APPZ
     REDIS_USER_PASSWD: 
        vault: REDISPASSWD
-    REDIS_MAXMEMORY: 3gb
-    AUTH: True
+    REDIS_MAXMEMORY: 
+    AUTH: 
     revision : 21
